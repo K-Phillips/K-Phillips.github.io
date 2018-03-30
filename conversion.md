@@ -4,7 +4,9 @@ title: Conversion to Xigt
 
 # About FLex to Xigt
 
+<br>
 This is where we put some stuff about the conversion 
+<br><br>
 
 ## Example Xigt
 
@@ -86,7 +88,11 @@ This is where we put some stuff about the conversion
     </tier>
   </igt>
 ```
+<br><br>
+
 ## Original FLex
+
+<br>
 
 ```xml
       <paragraph guid="0dd43cbb-d9bf-438e-a239-86a1e7162834">
