@@ -1,3 +1,8 @@
+---
+title: Conversion to Xigt
+layout: page
+---
+
 # About FLex to Xigt
 
 This is where we put some stuff about the conversion 
