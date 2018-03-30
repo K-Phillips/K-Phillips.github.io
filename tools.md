@@ -6,5 +6,5 @@ title: Tools
 
 We make use of a variety of tools for the FOLTA project. 
 
-* Python
-* Xigt (eXtensible Interlinear Glossed Text)
+* [Python](https://www.python.org/)
+* [Xigt](https://github.com/xigt/xigt) (eXtensible Interlinear Glossed Text)
