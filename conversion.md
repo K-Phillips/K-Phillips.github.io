@@ -1,6 +1,5 @@
 ---
 title: Conversion to Xigt
-layout: page
 ---
 
 # About FLex to Xigt
