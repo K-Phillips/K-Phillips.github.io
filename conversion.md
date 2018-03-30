@@ -6,10 +6,9 @@ title: Conversion to Xigt
 
 This is where we put some stuff about the conversion 
 
-```xml
-
 ## Example Xigt
 
+```xml
 <tier id="m" type="morphemes" segmentation="w">
     <item id="m1.1" type="prefix">m-</item>
     <item id="m1.2" type="stem">kpuu</item>
