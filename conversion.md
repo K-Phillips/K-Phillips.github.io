@@ -86,3 +86,128 @@ This is where we put some stuff about the conversion
     </tier>
   </igt>
 ```
+## Original FLex
+
+```xml
+      <paragraph guid="0dd43cbb-d9bf-438e-a239-86a1e7162834">
+        <phrases>
+          <phrase guid="0e60ef88-1949-4671-a9b6-9a06aeaa5c00">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="c135e579-6255-43c6-9bf4-e811d2283de6">
+                <item type="txt" lang="mni-fonipa">ihé</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">ihé</item>
+                    <item type="cf" lang="mni-fonipa">ihé</item>
+                    <item type="gls" lang="en">(intj)</item>
+                    <item type="msa" lang="en">interj </item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">by the way</item>
+                <item type="pos" lang="en">interj</item>
+              </word>
+              <word guid="5cd7e5d9-318f-4fb3-bc74-09ca166ce7bd">
+                <item type="txt" lang="mni-fonipa">pres</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">pres</item>
+                    <item type="cf" lang="mni-fonipa">pres</item>
+                    <item type="gls" lang="en">press</item>
+                    <item type="msa" lang="en">n </item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">press</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="c24be63d-8bbe-4ed2-9630-97b6d9bde2f3">
+                <item type="txt" lang="mni-fonipa">əmə</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">ə-</item>
+                    <item type="cf" lang="mni-fonipa">ə́-</item>
+                    <item type="gls" lang="en">ATT-</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">mə</item>
+                    <item type="cf" lang="mni-fonipa">mə</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the</item>
+              </word>
+              <word guid="ed74beb7-45c0-420f-815c-f03571d6f816">
+                <item type="txt" lang="mni-fonipa">ləybədubu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">ləy</item>
+                    <item type="cf" lang="mni-fonipa">ləy</item>
+                    <item type="hn" lang="en">1</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">v </item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">-bə</item>
+                    <item type="cf" lang="mni-fonipa">-pə</item>
+                    <item type="gls" lang="en">-NOM</item>
+                    <item type="msa" lang="en">v&gt;n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">=du</item>
+                    <item type="cf" lang="mni-fonipa">tú</item>
+                    <item type="hn" lang="en">1</item>
+                    <item type="gls" lang="en">==DDET</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">=bu</item>
+                    <item type="cf" lang="mni-fonipa">=pu</item>
+                    <item type="gls" lang="en">==ADVR</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">that one which is</item>
+              </word>
+              <word guid="ccaf9daf-4ad0-4f41-94e9-1574a512ec96">
+                <item type="txt" lang="mni-fonipa">kədaywaydəno</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">kəday</item>
+                    <item type="cf" lang="mni-fonipa">kəday</item>
+                    <item type="gls" lang="en">where</item>
+                    <item type="msa" lang="en">adv </item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">way</item>
+                    <item type="cf" lang="mni-fonipa">way</item>
+                    <item type="hn" lang="en">1</item>
+                    <item type="gls" lang="en">thereabouts</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">=də</item>
+                    <item type="cf" lang="mni-fonipa">=tə</item>
+                    <item type="hn" lang="en">1</item>
+                    <item type="gls" lang="en">==LOC</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="mni-fonipa">=no</item>
+                    <item type="cf" lang="mni-fonipa">=no</item>
+                    <item type="gls" lang="en">==INQ</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">whereabouts it is?</item>
+              </word>
+              <word>
+                <item type="punct" lang="mni-fonipa">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">By the way, do you know the whereabouts of that printing press?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+``` 
