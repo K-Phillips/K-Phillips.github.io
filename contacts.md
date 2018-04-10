@@ -1,8 +1,8 @@
 ---
-title: People
+title: Contact Information
 ---
 
-# People involved in the FOLTA Project
+# Contacts for the FOLTA Project
  
 
 * [Alexis Palmer](https://alexispalmer.github.io/): alexis.palmer<span></span>@unt.edu
