@@ -2,7 +2,7 @@
 title: Converting FLEx to Xigt
 ---
 
-# About FLex to Xigt
+# Converting FLex to Xigt
 
 <br>
 This is where we put some stuff about the conversion 
