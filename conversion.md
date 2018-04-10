@@ -1,5 +1,5 @@
 ---
-title: Conversion to Xigt
+title: Converting FLEx to Xigt
 ---
 
 # About FLex to Xigt
@@ -90,7 +90,7 @@ This is where we put some stuff about the conversion
 ```
 <br><br>
 
-## Original FLex
+## FLExtext Before Conversion (\*.flextext)
 
 <br>
 
@@ -217,3 +217,4 @@ This is where we put some stuff about the conversion
         </phrases>
       </paragraph>
 ``` 
+Taken From: Chelliah, Shobhana Lakshmi (1997-01-01). A Grammar of Meithei. Walter de Gruyter. ISBN 9783110143218.
